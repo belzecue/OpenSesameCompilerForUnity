@@ -7,6 +7,7 @@ PluginImporter:
   executionOrder: {}
   defineConstraints:
   - '!OPEN_SESAME_DEV'
+  - ignore
   isPreloaded: 0
   isOverridable: 1
   isExplicitlyReferenced: 1
